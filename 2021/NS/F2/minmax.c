@@ -1,3 +1,7 @@
+/*
+    LINK DO EXERCÍCIO: https://olimpiada.ic.unicamp.br/pratique/ps/2021/f2/minmax/
+*/
+
 #include <stdio.h>
 
 int somaDigitos (int n)
